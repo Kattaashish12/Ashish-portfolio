@@ -6,19 +6,19 @@
     background-image: url("https://img.freepik.com/free-vector/futuristic-halftone-background_53876-90595.jpg?ga=GA1.1.842115432.1748506746&semt=ais_items_boosted&w=740");
     background-size: cover;
     height:100vh;
-    width:100vw;
+    width:auto;
 }
 .about-section-bg{
   background-image: url("https://img.freepik.com/free-vector/futuristic-halftone-background_53876-90595.jpg?ga=GA1.1.842115432.1748506746&semt=ais_items_boosted&w=740");
     background-size: cover;
     height:100vh;
-    width:100vw
+    width:auto;
 }
 .project-section-bg{
   background-image: url("https://img.freepik.com/free-vector/futuristic-halftone-background_53876-90595.jpg?ga=GA1.1.842115432.1748506746&semt=ais_items_boosted&w=740");
     background-size: cover;
     height:auto;
-    width:100vw;
+    width:auto;
 }
 .project-card{
     background-color:white;
@@ -32,7 +32,7 @@
   background-image: url("https://img.freepik.com/free-vector/futuristic-halftone-background_53876-90595.jpg?ga=GA1.1.842115432.1748506746&semt=ais_items_boosted&w=740");
     background-size: cover;
     height:100vh;
-    width:100vw;
+    width:auto;
 }
 .skills-card{
   background-color:grey;
